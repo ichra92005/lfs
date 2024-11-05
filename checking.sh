@@ -1,5 +1,4 @@
 
-```bash
 cat > version-check.sh << "EOF"
 #!/bin/bash
 
